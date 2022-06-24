@@ -1,23 +1,19 @@
 {
-	"name": "web3app",
-	"version": "0.0.0",
-	"scripts": {
-		"dev": "vite",
-		"build": "vite build",
-		"preview": "vite preview"
-	},
-	"dependencies": {
-		"react": "^17.0.2",
-		"react-dom": "^17.0.2"
-	},
-	"devDependencies": {
-		"@nomiclabs/hardhat-ethers": "^2.0.4",
-		"@nomiclabs/hardhat-waffle": "^2.0.1",
-		"@openzeppelin/contracts": "^4.4.2",
-		"@vitejs/plugin-react": "^1.0.7",
-		"chai": "^4.3.4",
-		"ethereum-waffle": "^3.4.0",
-		"ethers": "^5.5.3",
-		"vite": "^2.7.2"
-	}
+  "name": "votechain",
+  "version": "1.0.0",
+  "description": "A decentralized voting system based on [Ethereum blockchain](https://ethereum.org/dapps/) technology.",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alen-kuriakose/votechain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alen-kuriakose/votechain/issues"
+  },
+  "homepage": "https://github.com/alen-kuriakose/votechain#readme"
 }
